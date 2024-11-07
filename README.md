@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a back-end developer with experience in Java, Spring Boot, TypeScript, Node.js, and NestJS. Specializing in creating and maintaining APIs with efficient practices in robust systems.</p>
+<p align="left">I am a back-end developer with experience in Java and Spring Boot. Specializing in creating and maintaining APIs with efficient practices in robust systems.</p>
 
 ###
 
@@ -22,12 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
